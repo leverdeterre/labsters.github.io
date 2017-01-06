@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Halve Jekyll Theme"
-date:   2016-05-29
-excerpt: "Stylish, two-column Jekyll theme for your blog."
+title:  "Introduction"
+date:   2017-01-06
+excerpt: "Bienvenue sur notre blog Labsters."
 tag:
-- jekyll
-- halve
 - blog
-- vangeltzo
-- theme
-- vangelis
+- techno
+- homard
 ---
 
 <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  

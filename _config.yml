@@ -1,7 +1,8 @@
 # Site
 title: Labsters
 description: On en pince aussi pour nos technos
-url: 
+url:
+sharedurl: blog.labsters.io
 logo: halve.png                                       # Site logo
 locale: fr_FR
 
@@ -31,10 +32,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+twitter:            Labstrs
+facebook:           Labsters
+github:             Labsters
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
